@@ -1,0 +1,16 @@
+{
+  "name": "day-5-starting-the-youtube-project",
+  "version": "1.0.0",
+  "description": "backend of Youtube project",
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "soheb khan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
